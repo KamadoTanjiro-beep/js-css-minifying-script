@@ -6,3 +6,5 @@
 ### I am working on it to automate it.
 
 ### Any help is welcome.
+
+![CSS MINIFY CODEt](https://github.com/aniket-patra/js-css-minifying-script/blob/main/css-mini.jpg)
